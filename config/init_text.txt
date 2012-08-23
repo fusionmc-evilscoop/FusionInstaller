@@ -1,0 +1,20 @@
+<html>
+<center>
+<h2>Fusion mod installer 1.0.0</h2><br>
+<br>
+<b>MAKE SURE TO READ ME BEFORE INSTALLING!<br>
+YOU MUST INSTALL OVER UNTOUCHED MINECRAFT FILES!<br>
+DELETE ANY MOD OR CONFIG DIRECTORIES IN<br>
+YOUR MINECRAFT FOLDER BEFORE INSTALLING!</b><br>
+<br>
+<br>
+Any damage caused to: <b>YOUR</b> Computer,<br>
+<b>YOUR</b> Saves and/or <b>YOUR</b> Files<br>
+is <b>YOUR</b> Responsability. We do not take<br>
+the responsability if something goes wrong.<br>
+<br>
+Press <b>NEXT</b> to automatically install The DNS TP into the default Minecraft location.<br>
+Select <b>Set Target Minecraft Folder...</b> to manually select your Minecraft directory.
+<br>
+</center>
+</html>
