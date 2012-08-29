@@ -13,7 +13,7 @@ Any damage caused to: <b>YOUR</b> Computer,<br>
 is <b>YOUR</b> Responsability. We do not take<br>
 the responsability if something goes wrong.<br>
 <br>
-Press <b>NEXT</b> to automatically install The DNS TP into the default Minecraft location.<br>
+Press <b>NEXT</b> to automatically install The FusionPack into the default Minecraft location.<br>
 Select <b>Set Target Minecraft Folder...</b> to manually select your Minecraft directory.
 <br>
 </center>
