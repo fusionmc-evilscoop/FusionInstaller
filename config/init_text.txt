@@ -1,6 +1,6 @@
 <html>
 <center>
-<h2>Fusion mod installer 1.0.0</h2><br>
+<h2>Fusion mod installer 1.3</h2><br>
 <br>
 <b>MAKE SURE TO READ ME BEFORE INSTALLING!<br>
 YOU MUST INSTALL OVER UNTOUCHED MINECRAFT FILES!<br>
