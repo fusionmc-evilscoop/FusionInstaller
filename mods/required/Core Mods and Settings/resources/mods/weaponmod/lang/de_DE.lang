@@ -1,0 +1,71 @@
+#Balkon's WeaponMod language file de_DE by pick09091995
+
+item.wood-spear.name=Holzspeer
+item.stone-spear.name=Steinspeer
+item.iron-spear.name=Eisenspeer
+item.diamond-spear.name=Diamantspeer
+item.gold-spear.name=Goldener Speer
+
+item.wood-halberd.name=Holzhellebarde
+item.stone-halberd.name=Steinhellebarde
+item.iron-halberd.name=Eisenhellebarde
+item.diamond-halberd.name=Diamanthellebarde
+item.gold-halberd.name=Goldene Hellebarde
+
+item.wood-battleaxe.name=Holzstreitaxt
+item.stone-battleaxe.name=Steinstreitaxt
+item.iron-battleaxe.name=Eisenstreitaxt
+item.diamond-battleaxe.name=Diamantstreitaxt
+item.gold-battleaxe.name=Goldene Streitaxt
+
+item.wood-warhammer.name=Holzkriegshammer
+item.stone-warhammer.name=Steinkriegshammer
+item.iron-warhammer.name=Eisenkriegshammer
+item.diamond-warhammer.name=Diamantkriegshammer
+item.gold-warhammer.name=Goldener Kriegshammer
+
+item.wood-knife.name=Holzmesser
+item.stone-knife.name=Steinmesser
+item.iron-knife.name=Eisenmesser
+item.diamond-knife.name=Diamantmesser
+item.gold-knife.name=Goldenes Messer
+
+item.wood-flail.name=Holzstreitflegel
+item.stone-flail.name=Steinstreitflegel
+item.iron-flail.name=Eisenstreitflegel
+item.diamond-flail.name=Diamantstreitflegel
+item.gold-flail.name=Goldener Streitflegel
+
+item.javelin.name=Wurfspeer
+
+item.musket.name=Muskete
+item.musketbayonet.name=Muskete mit Bajonett
+item.musket-ironpart.name=Musketenlauf
+item.bullet.name=Musketenkugel
+
+item.crossbow.name=Armbrust
+item.bolt.name=Armbrustbolzen
+
+item.blowgun.name=Blasrohr
+item.dart.name=Vergifteter Pfeil
+
+item.dynamite.name=Dynamit
+
+item.firerod.name=Feuerstab
+
+item.cannon.name=Kanone
+item.cannonball.name=Kanonenkugel
+
+item.blunderbuss.name=Donnerbüchse
+item.blunder-ironpart.name=Donnerbüchsenlauf
+item.shot.name=Donnerbüchsenschrot
+
+item.dummy.name=Trainingspuppe
+
+item.gun-stock.name=Gewehrkolben
+
+item.wood-boomerang.name=Holzbumerang
+item.stone-boomerang.name=Steinbumerang
+item.iron-boomerang.name=Eisenbumerang
+item.diamond-boomerang.name=Diamantbumerang
+item.gold-boomerang.name=Goldener Bumerang

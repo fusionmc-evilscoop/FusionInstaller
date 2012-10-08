@@ -1,0 +1,71 @@
+#Balkon's WeaponMod language file nl_NL
+
+item.wood-spear.name=Houten speer
+item.stone-spear.name=Stenen speer
+item.iron-spear.name=IJzeren speer
+item.diamond-spear.name=Diamanten speer
+item.gold-spear.name=Gouden speer
+
+item.wood-halberd.name=Houten hellebaard
+item.stone-halberd.name=Stenen hellebaard
+item.iron-halberd.name=IJzeren hellebaard
+item.diamond-halberd.name=Diamanten hellebaard
+item.gold-halberd.name=Gouden hellebaard
+
+item.wood-battleaxe.name=Houten gevechtsbijl
+item.stone-battleaxe.name=Stenen gevechtsbijl
+item.iron-battleaxe.name=IJzeren gevechtsbijl
+item.diamond-battleaxe.name=Diamanten gevechtsbijl
+item.gold-battleaxe.name=Gouden gevechtsbijl
+
+item.wood-warhammer.name=Houten strijdhamer
+item.stone-warhammer.name=Stenen strijdhamer
+item.iron-warhammer.name=IJzeren strijdhamer
+item.diamond-warhammer.name=Diamanten strijdhamer
+item.gold-warhammer.name=Gouden strijdhamer
+
+item.wood-knife.name=Houten mes
+item.stone-knife.name=Stenen mes
+item.iron-knife.name=IJzeren mes
+item.diamond-knife.name=Diamanten mes
+item.gold-knife.name=Gouden mes
+
+item.wood-flail.name=Houten strijdvlegel
+item.stone-flail.name=Stenen strijdvlegel
+item.iron-flail.name=IJzeren strijdvlegel
+item.diamond-flail.name=Diamanten strijdvlegel
+item.gold-flail.name=Gouden strijdvlegel
+
+item.javelin.name=Werpspeer
+
+item.musket.name=Musket
+item.musketbayonet.name=Musket met bajonet
+item.musket-ironpart.name=Musketloop
+item.bullet.name=Musketkogel
+
+item.crossbow.name=Kruisboog
+item.bolt.name=Kruisboogpijl
+
+item.blowgun.name=Blaaspijp
+item.dart.name=Giftig dartpijltje
+
+item.dynamite.name=Dynamiet
+
+item.firerod.name=Vuurstaaf
+
+item.cannon.name=Kanon
+item.cannonball.name=Kanonskogel
+
+item.blunderbuss.name=Donderbus
+item.blunder-ironpart.name=Donderbusloop
+item.shot.name=Donderbusschot
+
+item.dummy.name=Oefenpop
+
+item.gun-stock.name=Geweermagazijn
+
+item.wood-boomerang.name=Houten boemerang
+item.stone-boomerang.name=Stenen boemerang
+item.iron-boomerang.name=IJzeren boemerang
+item.diamond-boomerang.name=Diamanten boemerang
+item.gold-boomerang.name=Gouden boemerang
