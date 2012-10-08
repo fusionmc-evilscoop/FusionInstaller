@@ -1,0 +1,71 @@
+#Balkon's WeaponMod language file en_PT
+
+item.wood-spear.name=Timber Stabber
+item.stone-spear.name=Stabber o' Rock
+item.iron-spear.name=Stabber o' Pebbles
+item.diamond-spear.name=Bejeweled Stabber
+item.gold-spear.name=Golden Stabber
+
+item.wood-halberd.name=Timber Halberd
+item.stone-halberd.name=Halberd o' Rock
+item.iron-halberd.name=Halberd o' Steel
+item.diamond-halberd.name=Bejeweled Halberd
+item.gold-halberd.name=Golden Halberd
+
+item.wood-battleaxe.name=Grand Hatchet o' Timber
+item.stone-battleaxe.name=Grand Hatchet o' Rock
+item.iron-battleaxe.name=Grand Iron Hatchet
+item.diamond-battleaxe.name=Grand Bejeweled Hatchet
+item.gold-battleaxe.name=Grand Golden Hatchet
+
+item.wood-warhammer.name=Timber Warrrhammer
+item.stone-warhammer.name=Warrrhammer o' Rock
+item.iron-warhammer.name=Warrrhammer o' Metal
+item.diamond-warhammer.name=Bejeweled Warrrhammer
+item.gold-warhammer.name=Golden Warrrhammer
+
+item.wood-knife.name=Timber Dagg'r
+item.stone-knife.name=Dagg'r o' Rock
+item.iron-knife.name=Rusty Dagg'r
+item.diamond-knife.name=Bejeweled Dagg'r
+item.gold-knife.name=Golden Dagg'r
+
+item.wood-flail.name=Plank on a Rope
+item.stone-flail.name=Rock on a Rope
+item.iron-flail.name=Cannon Ball on a Rope
+item.diamond-flail.name=Jewel on a Rope
+item.gold-flail.name=Nugget on a Rope
+
+item.javelin.name=Javelin'
+
+item.musket.name=Musket
+item.musketbayonet.name=Musket an' Cutlass
+item.musket-ironpart.name=Musket Barrrrel
+item.bullet.name=Musket Round
+
+item.crossbow.name=Pistol o' Lassies
+item.bolt.name=Pistol o' Lassies' Bullet
+
+item.blowgun.name=Blowgun
+item.dart.name=Arrow o' Scurvy
+
+item.dynamite.name=Hand Granadoe
+
+item.firerod.name=Burnin' Stick
+
+item.cannon.name=Monkey
+item.cannonball.name=Monkey's Pill
+
+item.blunderbuss.name=Ye Olde Gun
+item.blunder-ironpart.name=Ye Olde Gun's Barrrrel
+item.shot.name=Ye Olde Gun's Shot
+
+item.dummy.name=Landlubber's Puppet
+
+item.gun-stock.name=Piece o' a Gun
+
+item.wood-boomerang.name=Timber Bird
+item.stone-boomerang.name=Bird o' Rock
+item.iron-boomerang.name=Bird o' Iron
+item.diamond-boomerang.name=Bejeweled Bird
+item.gold-boomerang.name=Golden Bird

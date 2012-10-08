@@ -1,0 +1,71 @@
+#Balkon's WeaponMod language file en_US
+
+item.wood-spear.name=Wooden Spear
+item.stone-spear.name=Stone Spear
+item.iron-spear.name=Iron Spear
+item.diamond-spear.name=Diamond Spear
+item.gold-spear.name=Golden Spear
+
+item.wood-halberd.name=Wooden Halberd
+item.stone-halberd.name=Stone Halberd
+item.iron-halberd.name=Iron Halberd
+item.diamond-halberd.name=Diamond Halberd
+item.gold-halberd.name=Golden Halberd
+
+item.wood-battleaxe.name=Wooden Battleaxe
+item.stone-battleaxe.name=Stone Battleaxe
+item.iron-battleaxe.name=Iron Battleaxe
+item.diamond-battleaxe.name=Diamond Battleaxe
+item.gold-battleaxe.name=Golden Battleaxe
+
+item.wood-warhammer.name=Wooden Warhammer
+item.stone-warhammer.name=Stone Warhammer
+item.iron-warhammer.name=Iron Warhammer
+item.diamond-warhammer.name=Diamond Warhammer
+item.gold-warhammer.name=Golden Warhammer
+
+item.wood-knife.name=Wooden Knife
+item.stone-knife.name=Stone Knife
+item.iron-knife.name=Iron Knife
+item.diamond-knife.name=Diamond Knife
+item.gold-knife.name=Golden Knife
+
+item.wood-flail.name=Wooden Flail
+item.stone-flail.name=Stone Flail
+item.iron-flail.name=Iron Flail
+item.diamond-flail.name=Diamond Flail
+item.gold-flail.name=Golden Flail
+
+item.javelin.name=Javelin
+
+item.musket.name=Musket
+item.musketbayonet.name=Musket with Bayonet
+item.musket-ironpart.name=Musket Barrel
+item.bullet.name=Musket Round
+
+item.crossbow.name=Crossbow
+item.bolt.name=Crossbow Bolt
+
+item.blowgun.name=Blowgun
+item.dart.name=Poisonous Dart
+
+item.dynamite.name=Dynamite
+
+item.firerod.name=Fire Rod
+
+item.cannon.name=Cannon
+item.cannonball.name=Cannon Ball
+
+item.blunderbuss.name=Blunderbuss
+item.blunder-ironpart.name=Blunderbuss Barrel
+item.shot.name=Blunderbuss Shot
+
+item.dummy.name=Training Dummy
+
+item.gun-stock.name=Gun Stock
+
+item.wood-boomerang.name=Wooden Boomerang
+item.stone-boomerang.name=Stone Boomerang
+item.iron-boomerang.name=Iron Boomerang
+item.diamond-boomerang.name=Diamond Boomerang
+item.gold-boomerang.name=Golden Boomerang
